@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.clock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    height: 300px;
+    width: 300px;
+    margin-top: 150px;
+    padding: 30px 50px;
+    border-radius: 15px;
+}
+
+.heading {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.time {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.date {
+    font-size: 20px;
+    font-weight: bold;
+}
