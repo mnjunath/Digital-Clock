@@ -1,17 +1,18 @@
-# 🕒 Digital Clock
+# Digital Clock
 
-A simple **Digital Clock** built using **HTML, CSS, and JavaScript**.  
-It displays the **current time** in 12-hour format with AM/PM and also shows the **full date** (weekday, month, day, year). The clock updates automatically every second.
+A simple **Digital Clock** built using HTML, CSS & JavaScript. It displays the current time (HH:MM:SS) in 12-hour format (with AM/PM) and shows the full date (weekday, month, day, year). The clock updates automatically every second.
 
----
+## Demo
 
-## 🚀 Features
-- Live updating digital clock (HH:MM:SS format).
-- Supports 12-hour format with AM/PM.
-- Displays the current date (weekday, month, day, year).
-- Clean and responsive UI design.
-- Styled with modern CSS (centered layout, shadow, rounded corners).
+You can see it live [here](https://stellular-mandazi-ac88c4.netlify.app/). :contentReference[oaicite:0]{index=0}
 
----
+## Features
 
-## 📂 Project Structure
+- Live updating digital clock in **HH:MM:SS** format  
+- 12-hour format with **AM/PM**  
+- Displays the full date: **weekday, month, day, year**  
+- Clean, responsive UI design  
+- Modern CSS styling (centered layout, shadows, rounded corners)
+
+## Project Structure
+
